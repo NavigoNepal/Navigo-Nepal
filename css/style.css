@@ -148,6 +148,12 @@ h6,
     transition: .5s;
 }
 
+.navbar-brand img{
+    height: 5rem;
+    width: 10rem;
+    padding: 5px;
+}
+
 .navbar .dropdown-toggle[aria-expanded=true]::after {
     transform: rotate(-180deg);
 }
