@@ -220,7 +220,7 @@ h6,
 }
 
 .header-carousel img{
-    height: 100vh;
+    height: 100%;
     object-fit: cover;
 }
 
